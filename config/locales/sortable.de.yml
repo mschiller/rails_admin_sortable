@@ -1,0 +1,11 @@
+de:
+  helper_sortable: Sortiere hier die Datensätze nach ihrer Priorisierung
+  admin:
+    actions:
+      sortable:
+        title: "Sortierung"
+        menu: "Sortierung"
+        breadcrumb: "Sortierung"
+        link: "Soertierung"
+        done: "Sortiert"
+        title_section: Sortiere
